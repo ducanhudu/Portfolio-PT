@@ -38,33 +38,33 @@ const projectDetails = {
   "bai-2": {
     chapter: "Chương 2",
     label: "Bài tập 2",
-    title: "Viết prompt hiệu quả cho các tác vụ học tập",
+    title: "Tìm kiếm và đánh giá thông tin học thuật",
     objective:
-      "Phát triển kỹ năng viết câu lệnh hiệu quả để tận dụng tối đa khả năng của các mô hình ngôn ngữ lớn trong học tập.",
+      "Phát triển kỹ năng tìm kiếm và đánh giá thông tin học thuật từ các nguồn đáng tin cậy.",
     process:
-      "Phần thực hiện đi từ việc xác định mục tiêu học tập, mô tả yêu cầu rõ ràng, thêm ngữ cảnh cần thiết cho đến điều chỉnh prompt theo kết quả nhận được. Bài tập giúp nâng cao khả năng giao tiếp với công cụ AI theo cách có cấu trúc, từ đó thu được đầu ra chính xác và hữu ích hơn.",
+      "Bài tập nhấn mạnh cách lựa chọn từ khóa, khoanh vùng nguồn tài liệu, đối chiếu độ tin cậy và ghi nhận thông tin học thuật theo hướng có kiểm chứng. Nhờ đó, quá trình đọc, chọn lọc và sử dụng tư liệu phục vụ học tập trở nên chặt chẽ và thuyết phục hơn.",
     pdf: "./assets/docs/bai-tap-2.pdf",
     theme: "linear-gradient(135deg, #6f8f57, #9fbc7e)",
   },
   "bai-3": {
     chapter: "Chương 3",
     label: "Bài tập 3",
-    title: "Tìm kiếm và đánh giá thông tin học thuật",
+    title: "Viết prompt hiệu quả cho các tác vụ học tập",
     objective:
-      "Phát triển kỹ năng tìm kiếm và đánh giá thông tin học thuật từ các nguồn đáng tin cậy.",
+      "Phát triển kỹ năng viết câu lệnh hiệu quả để tận dụng tối đa khả năng của các mô hình ngôn ngữ lớn trong học tập.",
     process:
-      "Bài tập nhấn mạnh cách lựa chọn từ khóa, khoanh vùng nguồn tài liệu, đối chiếu độ tin cậy và ghi nhận thông tin học thuật theo hướng có kiểm chứng. Nhờ đó, quá trình đọc, chọn lọc và sử dụng tư liệu phục vụ học tập trở nên chặt chẽ và thuyết phục hơn.",
+      "Phần thực hiện đi từ việc xác định mục tiêu học tập, mô tả yêu cầu rõ ràng, thêm ngữ cảnh cần thiết cho đến điều chỉnh prompt theo kết quả nhận được. Bài tập giúp nâng cao khả năng giao tiếp với công cụ AI theo cách có cấu trúc, từ đó thu được đầu ra chính xác và hữu ích hơn.",
     pdf: "./assets/docs/bai-tap-3.pdf",
     theme: "linear-gradient(135deg, #6f8f57, #9fbc7e)",
   },
   "bai-4": {
     chapter: "Chương 4",
     label: "Bài tập 4",
-    title: "Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo",
+    title: "Giao tiếp và hợp tác trong môi trường số",
     objective:
-      "Tiếp cận nền tảng công nghệ số và cách ứng dụng trí tuệ nhân tạo vào môi trường học tập hiện đại.",
+      "Rèn luyện kỹ năng tổ chức và tham gia cuộc họp trực tuyến chuyên nghiệp.",
     process:
-      "Nội dung bài làm tổng hợp các kiến thức nền tảng về công nghệ số, đồng thời liên hệ với những tình huống thực tế trong học tập để làm rõ vai trò của AI. Cách trình bày tập trung vào sự kết nối giữa lý thuyết cơ bản và khả năng ứng dụng trong môi trường số ngày nay.",
+      "Bài tập tập trung vào việc thực hành giao tiếp, phối hợp và làm việc hiệu quả trong môi trường số. Nội dung nhấn mạnh cách chuẩn bị trước cuộc họp, trao đổi rõ ràng, phân chia nhiệm vụ hợp lý và duy trì tinh thần hợp tác chuyên nghiệp khi làm việc trực tuyến.",
     pdf: "./assets/docs/bai-tap-4.pdf",
     theme: "linear-gradient(135deg, #6f8f57, #9fbc7e)",
   },
